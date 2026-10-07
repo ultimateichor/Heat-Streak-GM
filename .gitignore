@@ -1,0 +1,32 @@
+# GameMaker Specific
+*.resource_order
+*.old
+*.tmp
+.abc/
+
+# GameMaker Exports / Backups
+/export/
+*.yyz
+*.gmez
+*.yymp
+*.yymps
+#backups/
+
+# Crash dumps
+*.stackdump
+
+# Windows OS metadata
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS OS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
